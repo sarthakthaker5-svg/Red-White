@@ -1,0 +1,1 @@
+print("Sarth","Thakar" ,sep="-", end="*")

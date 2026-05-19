@@ -1,0 +1,11 @@
+n1=int(input("Enter first number:"))
+n2=float(input("Enter second number:"))
+n3=str(input("Enter name:"))
+n4=bool(input("Enter true or false:"))
+n5=complex(input("Enter complex number:"))
+
+print(type(n1))
+print(type(n2))
+print(type(n3))
+print(type(n4))
+print(type(n5))
