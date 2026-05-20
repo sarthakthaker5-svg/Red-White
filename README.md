@@ -11,7 +11,7 @@ This project is a beginner-friendly Python application that collects personal in
 - Formatted output using f-strings
 
 ## Screenshot
-![Project Screenshot](images/sample.png)
+![Project Screenshot](sample.png)
 
 ## Author
 Sarth Thakar
