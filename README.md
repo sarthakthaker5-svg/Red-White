@@ -10,6 +10,17 @@ This project is a beginner-friendly Python application that collects personal in
 - Birth year calculation
 - Formatted output using f-strings
 
+# Program Workflow
+ - Display welcome message
+ - Ask the user to enter personal details
+ - Store the values in variables
+ - Print each value with:
+ - Data type
+ - Memory address
+ - Calculate birth year using the formula:
+ - birth_year = 2026 - age
+ - Display a goodbye message
+
 ## Screenshot
 ![Project Screenshot](sample.png)
 
